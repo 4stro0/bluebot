@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    background-color: rgb(48, 48, 48);
+    text-align: center;
+}
+
+.text-atas-pojok-kiri {
+    text-align: left;
+    font-size: 30;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.logo-pojok-atas-kiri {
+    height: 80;
+    margin: 10;
+}
+
+.ats-bwh-gambar {
+    background-color: blue;
+    border: blue;
+    color: white;
+    width: 200;
+    height: 90;
+    border-radius: 20px;
+}
+
+.command {
+    font-size:20;
+    text-decoration-line: none;
+    float: right;
+    margin: 30;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.dashboard{
+    font-size:20;
+    text-decoration-line: none;
+    float: right;
+    margin: 30;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.login {
+    font-size:20;
+    text-decoration-line: none;
+    float: right;
+    margin: 30;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.support-server {
+    font-size:20;
+    text-decoration-line: none;
+    float: right;
+    margin: 30;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.text-h1-dibawah-header {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.penjelasan-h1-dibawah-header {
+    font-size: 20;
+    text-align: center;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.logo-bb-1{
+    height: 50;
+}
+
+.tombol-dibawah-header {
+    background-color: rgb(63 , 72 , 204);
+    color: white;
+    border: blue;
+    border-radius: 10px;
+}
+
+.tombol-dibawah-header a {
+    text-decoration-line: none;
+}
+
+.dibawah-header2{
+    font-size: 20;
+    color: gray;
+}
+
+.fitur-1 {
+    text-align: left;
+    padding-left: 200;
+}
+
+.dibawah-header1 {
+    background-color: rgb(31, 29, 29);
+    color: white;
+}
+
+
+
+#moderation {
+    border: rgb(67, 67, 67);
+    border-radius: 20px;
+    width: 404;
+    margin-right: 40;
+    margin-top: 20;
+    height: 400;
+    width: 350;
+    
+}
+
+#moderation:hover {
+    background-color: gray;
+}
+
+#Auto-Mod {
+    border: rgb(67, 67, 67);
+    border-radius: 20px;
+    width: 404;
+    margin-right: 40;
+    margin-top: 20;
+    height: 400;
+    width: 350;
+}
+
+#ats-bwh-fitur {
+    width: 150;
+    height: 75;
+    border: blue;
+    border-radius: 20px;
+}
+#ats-bwh-fitur a {
+    text-decoration-line: none;
+}
+
+.diatas-footer {
+    text-align:center ;
+
+}
+
+#table-bawah-footer {
+    background-color: blue;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: blue;
+    border-radius: 20px;
+    height: 600;
+    width:  1000;
+    font-size: 50;
+}
+
+.footer-bawah {
+    background-color: black;
+    color: gray;
+
+}
